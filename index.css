@@ -180,7 +180,7 @@ text-align:center;
 background:rgba(8,18,30,.55);
 position:relative;
 padding:0;
-background:url('Images/cover.jpeg') center center/cover;
+background:url('images/cover.jpeg') center center/cover;
 
 }
 
@@ -513,7 +513,7 @@ margin-top:50px;
 }
 
 .service-card{
-background:url('Images/Pastel.jpg') center center/cover;
+background:url('images/Pastel.jpg') center center/cover;
 border:1px solid var(--border);
 padding:45px;
 transition:.5s var(--ease);
