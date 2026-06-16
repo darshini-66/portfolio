@@ -379,7 +379,7 @@ font-family:'Playfair Display',serif;
 font-size:2rem;
 }
 
-.polaroids{
+/* .polaroids{
 display:grid;
 grid-template-columns:repeat(4,1fr);
 gap:28px;
@@ -406,7 +406,7 @@ box-shadow:var(--shadow-lg);
 .polaroid img{
 height:280px;
 object-fit:cover;
-}
+} */
 
 
 /* PROJECTS */
